@@ -1,0 +1,29 @@
+﻿United States
+Republic
+City, New York City, 95852673, 6431.82, Bill Gates
+City, Los Angeles, 5843764, 895.04, Emilio Clark
+Village, Springfield, 872351, 984.2, Jack Sparrow
+
+Germany
+Dictatorship
+City, Berlin, 3769495, 891.85, Angela Merkel
+City, Munich, 1471508, 310.7, Thomas Müller
+Village, Hamburg, 1841179, 755.3, Emma Schmidt
+
+Japan
+Monarchy
+City, Tokyo, 13929286, 2187.66, Hiroshi Yamamoto
+City, Osaka, 2713482, 223.99, Ayumi Nakamura
+Village, Kyoto, 1474570, 827.9, Satoshi Tanaka
+
+United Kingdom
+Oligarchy
+City, London, 8908081, 1572.0, James Johnson
+City, Manchester, 547627, 115.6, Olivia Wilson
+Village, Edinburgh, 536775, 264.8, Emily Thompson
+
+Brazil
+Capitalism
+City, So Paulo, 12325232, 1521.1, Lucas Silva
+City, Rio de Janeiro, 6747815, 1260.0, Isabella Santos
+Village, Salvador, 2886698, 706.8, Gabriel Oliveira

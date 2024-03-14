@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task3>
+  <Subject SubjectName="Plumbering">
+    <Group GroupName="FRIS">
+      <Result>
+        <StudentFullName>Vovk N.</StudentFullName>
+        <TotalScore>7</TotalScore>
+      </Result>
+    </Group>
+  </Subject>
+  <Subject SubjectName="Plumbering">
+    <Group GroupName="KMIS">
+      <Result>
+        <StudentFullName>Kolos A.</StudentFullName>
+        <TotalScore>9</TotalScore>
+      </Result>
+    </Group>
+  </Subject>
+  <Subject SubjectName="Dancing">
+    <Group GroupName="LOD">
+      <Result>
+        <StudentFullName>Mask D.</StudentFullName>
+        <TotalScore>9</TotalScore>
+      </Result>
+      <Result>
+        <StudentFullName>Wayne L.</StudentFullName>
+        <TotalScore>2</TotalScore>
+      </Result>
+    </Group>
+  </Subject>
+  <Subject SubjectName="Cooking">
+    <Group GroupName="XKJ">
+      <Result>
+        <StudentFullName>Petrov P.</StudentFullName>
+        <TotalScore>3</TotalScore>
+      </Result>
+    </Group>
+  </Subject>
+</Task3>

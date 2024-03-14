@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task2>
+  <Date ExamDate="2022-08-02T00:00:00">
+    <Result>
+      <StudentFullName>Kolos A.</StudentFullName>
+      <StudentGroupName>KMIS</StudentGroupName>
+      <ThemeName>Kran</ThemeName>
+      <FinalScore>4</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-08-05T00:00:00">
+    <Result>
+      <StudentFullName>Kolos A.</StudentFullName>
+      <StudentGroupName>KMIS</StudentGroupName>
+      <ThemeName>Truba</ThemeName>
+      <FinalScore>5</FinalScore>
+    </Result>
+    <Result>
+      <StudentFullName>Vovk N.</StudentFullName>
+      <StudentGroupName>FRIS</StudentGroupName>
+      <ThemeName>Truba</ThemeName>
+      <FinalScore>3</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-07-07T00:00:00">
+    <Result>
+      <StudentFullName>Mask D.</StudentFullName>
+      <StudentGroupName>LOD</StudentGroupName>
+      <ThemeName>Breakdance</ThemeName>
+      <FinalScore>4</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-07-09T00:00:00">
+    <Result>
+      <StudentFullName>Mask D.</StudentFullName>
+      <StudentGroupName>LOD</StudentGroupName>
+      <ThemeName>StreetStyle</ThemeName>
+      <FinalScore>5</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-09-01T00:00:00">
+    <Result>
+      <StudentFullName>Petrov P.</StudentFullName>
+      <StudentGroupName>XKJ</StudentGroupName>
+      <ThemeName>Varenyky</ThemeName>
+      <FinalScore>1</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-09-03T00:00:00">
+    <Result>
+      <StudentFullName>Petrov P.</StudentFullName>
+      <StudentGroupName>XKJ</StudentGroupName>
+      <ThemeName>Borshch</ThemeName>
+      <FinalScore>2</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-08-08T00:00:00">
+    <Result>
+      <StudentFullName>Vovk N.</StudentFullName>
+      <StudentGroupName>FRIS</StudentGroupName>
+      <ThemeName>Sink</ThemeName>
+      <FinalScore>4</FinalScore>
+    </Result>
+  </Date>
+  <Date ExamDate="2022-06-04T00:00:00">
+    <Result>
+      <StudentFullName>Wayne L.</StudentFullName>
+      <StudentGroupName>LOD</StudentGroupName>
+      <ThemeName>StreetStyle</ThemeName>
+      <FinalScore>2</FinalScore>
+    </Result>
+  </Date>
+</Task2>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task4>
+  <Specialty Specialty="Chef">
+    <Result>
+      <StudentFullName>Petrov P.</StudentFullName>
+      <ScorePercentage>30.00%</ScorePercentage>
+    </Result>
+  </Specialty>
+  <Specialty Specialty="Dancer">
+    <Result>
+      <StudentFullName>Mask D.</StudentFullName>
+      <ScorePercentage>90.00%</ScorePercentage>
+    </Result>
+  </Specialty>
+  <Specialty Specialty="Dancer">
+    <Result>
+      <StudentFullName>Wayne L.</StudentFullName>
+      <ScorePercentage>40.00%</ScorePercentage>
+    </Result>
+  </Specialty>
+  <Specialty Specialty="Plumber">
+    <Result>
+      <StudentFullName>Kolos A.</StudentFullName>
+      <ScorePercentage>90.00%</ScorePercentage>
+    </Result>
+  </Specialty>
+  <Specialty Specialty="Plumber">
+    <Result>
+      <StudentFullName>Vovk N.</StudentFullName>
+      <ScorePercentage>70.00%</ScorePercentage>
+    </Result>
+  </Specialty>
+</Task4>

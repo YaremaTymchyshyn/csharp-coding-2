@@ -1,0 +1,7 @@
+D:\2nd course\C# coding 4 term\module1\bin\Debug\module1.exe.config
+D:\2nd course\C# coding 4 term\module1\bin\Debug\module1.exe
+D:\2nd course\C# coding 4 term\module1\bin\Debug\module1.pdb
+D:\2nd course\C# coding 4 term\module1\obj\Debug\module1.csproj.CoreCompileInputs.cache
+D:\2nd course\C# coding 4 term\module1\obj\Debug\module1.exe
+D:\2nd course\C# coding 4 term\module1\obj\Debug\module1.pdb
+D:\2nd course\C# coding 4 term\module1\obj\Debug\module1.csproj.AssemblyReference.cache

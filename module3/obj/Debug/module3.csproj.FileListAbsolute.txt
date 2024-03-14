@@ -1,0 +1,6 @@
+D:\2nd course\C# coding 4 term\module3\bin\Debug\module3.exe.config
+D:\2nd course\C# coding 4 term\module3\bin\Debug\module3.exe
+D:\2nd course\C# coding 4 term\module3\bin\Debug\module3.pdb
+D:\2nd course\C# coding 4 term\module3\obj\Debug\module3.csproj.CoreCompileInputs.cache
+D:\2nd course\C# coding 4 term\module3\obj\Debug\module3.exe
+D:\2nd course\C# coding 4 term\module3\obj\Debug\module3.pdb

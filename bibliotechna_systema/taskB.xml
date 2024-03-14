@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Author AuthorSurname="AuthorSurname1">
+    <LatestBookDate>2023-08-09T00:00:00</LatestBookDate>
+    <LatestBookVydavnytstvoId>1</LatestBookVydavnytstvoId>
+  </Author>
+  <Author AuthorSurname="AuthorSurname2">
+    <LatestBookDate>2022-08-05T00:00:00</LatestBookDate>
+    <LatestBookVydavnytstvoId>1</LatestBookVydavnytstvoId>
+  </Author>
+  <Author AuthorSurname="AuthorSurname3">
+    <LatestBookDate>2022-08-15T00:00:00</LatestBookDate>
+    <LatestBookVydavnytstvoId>1</LatestBookVydavnytstvoId>
+  </Author>
+  <Author AuthorSurname="AuthorSurname4">
+    <LatestBookDate>2022-08-09T00:00:00</LatestBookDate>
+    <LatestBookVydavnytstvoId>1</LatestBookVydavnytstvoId>
+  </Author>
+</TaskB>

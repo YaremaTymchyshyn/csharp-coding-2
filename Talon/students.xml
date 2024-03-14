@@ -1,0 +1,37 @@
+﻿<Students>
+	<Student>
+		<StudentId>1</StudentId>
+		<StudentName>Artem</StudentName>
+		<StudentSurname>Kolos</StudentSurname>
+		<SpecialtyName>Plumber</SpecialtyName>
+		<GroupName>KMIS</GroupName>
+	</Student>
+	<Student>
+		<StudentId>2</StudentId>
+		<StudentName>Nazar</StudentName>
+		<StudentSurname>Vovk</StudentSurname>
+		<SpecialtyName>Plumber</SpecialtyName>
+		<GroupName>FRIS</GroupName>
+	</Student>
+	<Student>
+		<StudentId>3</StudentId>
+		<StudentName>Dmytro</StudentName>
+		<StudentSurname>Mask</StudentSurname>
+		<SpecialtyName>Dancer</SpecialtyName>
+		<GroupName>LOD</GroupName>
+	</Student>
+	<Student>
+		<StudentId>4</StudentId>
+		<StudentName>Petro</StudentName>
+		<StudentSurname>Petrov</StudentSurname>
+		<SpecialtyName>Chef</SpecialtyName>
+		<GroupName>XKJ</GroupName>
+	</Student>
+	<Student>
+		<StudentId>5</StudentId>
+		<StudentName>Lee</StudentName>
+		<StudentSurname>Wayne</StudentSurname>
+		<SpecialtyName>Dancer</SpecialtyName>
+		<GroupName>LOD</GroupName>
+	</Student>
+</Students>

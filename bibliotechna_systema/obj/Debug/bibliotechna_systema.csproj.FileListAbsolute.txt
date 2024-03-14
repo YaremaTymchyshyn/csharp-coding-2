@@ -1,0 +1,7 @@
+D:\2nd course\C# coding 4 term\bibliotechna_systema\bin\Debug\bibliotechna_systema.exe.config
+D:\2nd course\C# coding 4 term\bibliotechna_systema\bin\Debug\bibliotechna_systema.exe
+D:\2nd course\C# coding 4 term\bibliotechna_systema\bin\Debug\bibliotechna_systema.pdb
+D:\2nd course\C# coding 4 term\bibliotechna_systema\obj\Debug\bibliotechna_systema.csproj.AssemblyReference.cache
+D:\2nd course\C# coding 4 term\bibliotechna_systema\obj\Debug\bibliotechna_systema.csproj.CoreCompileInputs.cache
+D:\2nd course\C# coding 4 term\bibliotechna_systema\obj\Debug\bibliotechna_systema.exe
+D:\2nd course\C# coding 4 term\bibliotechna_systema\obj\Debug\bibliotechna_systema.pdb

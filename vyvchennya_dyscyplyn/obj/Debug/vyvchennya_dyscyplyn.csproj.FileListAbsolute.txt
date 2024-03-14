@@ -1,0 +1,7 @@
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\bin\Debug\vyvchennya_dyscyplyn.exe.config
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\bin\Debug\vyvchennya_dyscyplyn.exe
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\bin\Debug\vyvchennya_dyscyplyn.pdb
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\obj\Debug\vyvchennya_dyscyplyn.csproj.AssemblyReference.cache
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\obj\Debug\vyvchennya_dyscyplyn.csproj.CoreCompileInputs.cache
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\obj\Debug\vyvchennya_dyscyplyn.exe
+D:\2nd course\C# coding 4 term\vyvchennya_dyscyplyn\obj\Debug\vyvchennya_dyscyplyn.pdb

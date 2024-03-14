@@ -1,0 +1,7 @@
+D:\2nd course\C# coding 4 term\Talon\bin\Debug\Talon.exe.config
+D:\2nd course\C# coding 4 term\Talon\bin\Debug\Talon.exe
+D:\2nd course\C# coding 4 term\Talon\bin\Debug\Talon.pdb
+D:\2nd course\C# coding 4 term\Talon\obj\Debug\Talon.csproj.AssemblyReference.cache
+D:\2nd course\C# coding 4 term\Talon\obj\Debug\Talon.csproj.CoreCompileInputs.cache
+D:\2nd course\C# coding 4 term\Talon\obj\Debug\Talon.exe
+D:\2nd course\C# coding 4 term\Talon\obj\Debug\Talon.pdb

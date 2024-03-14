@@ -1,0 +1,7 @@
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\obj\Debug\rozrobka_projektiv.csproj.AssemblyReference.cache
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\obj\Debug\rozrobka_projektiv.csproj.CoreCompileInputs.cache
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\bin\Debug\rozrobka_projektiv.exe.config
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\bin\Debug\rozrobka_projektiv.exe
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\bin\Debug\rozrobka_projektiv.pdb
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\obj\Debug\rozrobka_projektiv.exe
+D:\2nd course\C# coding 4 term\rozrobka_projektiv\obj\Debug\rozrobka_projektiv.pdb
